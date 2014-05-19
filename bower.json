@@ -1,0 +1,7 @@
+{
+  "name": "foundation-sprockets",
+  "version": "0.0.1",
+  "dependencies": {
+    "foundation": "~5.2.2"
+  }
+}
