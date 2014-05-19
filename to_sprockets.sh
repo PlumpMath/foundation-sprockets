@@ -6,8 +6,6 @@ replace_regexp='\/\/= require .\/\1'
 
 #destination
 cp -r bower_components/foundation/scss scss_sprockets
-cp -r bower_components/foundation/js js
-cp -r bower_components/foundation/css css
 
 # Files with one import per line
 standard_regexp='@import[[:space:]]+"(.*)?";'
